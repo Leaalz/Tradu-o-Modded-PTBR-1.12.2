@@ -1,0 +1,20 @@
+{
+  "tool": "kama",
+  "text": [
+    {
+      "text": "A Kama é uma ferramenta agrícola versátil, utilizada para cortar plantas, lavrar o solo e tosquiar animais."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Clicar com o botão direito do mouse no solo irá cultivá-lo. Clicar com o botão direito do mouse nas plantações ou na cana-de-açúcar irá colher e replantar todas as plantas totalmente crescidas na área."
+    }
+  ],
+  "properties": [
+    "Até o chão",
+    "Colhe as culturas ao clicar com o botão direito do mouse",
+    "Blocos de tesouras e animais",
+    "Eficaz em plantas"
+  ]
+}

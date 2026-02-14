@@ -1,0 +1,13 @@
+{
+  "title": "Offhand Harvesting",
+  "text": [
+    {
+      "text": "As ferramentas dos tinker permitem que você colha blocos com a mão principal e com a mão secundária. Para fazer isso, basta colocar uma ferramenta capaz de colher blocos na mão secundária, enquanto segura outra ferramenta na mão principal. Ao quebrar um bloco, a ferramenta eficaz será usada automaticamente, então basta se aproximar desses blocos e quebrá-los como de costume."
+    }
+  ],
+  "image": {
+    "file": "tconstruct:texturas/gui/livro/offhand.png",
+    "width": 150,
+    "height": 75
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "tool": "cleaver",
+  "text": [
+    {
+      "text": "O Cleaver é uma arma ofensiva pesada. Tem golpes poderosos, mas é difícil de manejar."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Cada golpe mortal tem a possibilidade de decapitar o inimigo. Cortem suas cabeças!"
+    }
+  ],
+  "properties": [
+    "Requer uma Tool Forge",
+    "Arma ofensiva",
+    "Dano elevado, mas lento",
+    "Decapitação II",
+    "Com as duas mãos, sem mão secundária"
+  ]
+}

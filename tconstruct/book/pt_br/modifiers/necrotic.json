@@ -1,0 +1,18 @@
+{
+  "modifier": "necrotic",
+  "text": [
+    {
+      "text": "Colocar o osso de um Esqueleto Wither em uma ferramenta lhe confere poderes malignos de roubar vida."
+    }
+  ],
+  "effects": [
+    "Cure ao causar dano",
+    "Adicione mais ossos para aumentar a cura",
+    "Vários níveis"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:arrow"
+  ]
+}

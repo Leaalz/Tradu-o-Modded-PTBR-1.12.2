@@ -1,0 +1,24 @@
+{
+  "modifier": "blasting",
+  "text": [
+    {
+      "text": "Exploda todos os blocos! Faça-os desaparecer rapidamente!"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Você pode aplicar vários níveis para aumentar a velocidade, mas provavelmente perderá todos os blocos coletados."
+    }
+  ],
+  "effects": [
+    "Quebra blocos rapidamente",
+    "As ferramentas AOE também coletam blocos ineficazes",
+    "Provavelmente destruirá os blocos colhidos",
+    "Requer apenas 1 modificador",
+    "Vários níveis"
+  ],
+  "demoTool": [
+    "tconstruct:hammer"
+  ]
+}

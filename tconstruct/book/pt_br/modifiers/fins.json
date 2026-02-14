@@ -1,0 +1,18 @@
+{
+  "modifier": "fins",
+  "text": [
+    {
+      "text": "Vamos pegar um peixe... e prendê-lo em flechas. Claro! Isso faz com que elas nadem debaixo d'água! Agora você pode atirar em coisas debaixo d'água!"
+    }
+  ],
+  "effects": [
+    "Os projéteis ignoram a água",
+    "Logical",
+    "Faz sentido"
+  ],
+  "demoTool": [
+    "tconstruct:arrow",
+    "tconstruct:bolt",
+    "tconstruct:shuriken"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "",
+  "text": [
+    {
+      "text": "A Fundição pode ter qualquer tamanho entre 3x3 e 11x11 e qualquer altura a partir de um mínimo de 2. Estruturas maiores aumentam tanto o número de itens que podem ser fundidos quanto a capacidade de líquido. A estrutura requer um piso, mas não requer teto ou estrutura."
+    },
+    {
+      "text": "A fundição pode ser construída usando qualquer combinação de blocos queimados, vidro, tanques e drenos, embora o piso deva ser feito exclusivamente de blocos queimados. Também requer pelo menos um tanque para combustível, mas mais tanques aumentarão a quantidade de combustível. Torneiras podem ser conectadas aos drenos para despejar fluidos em mesas de fundição e bacias, ou o fluido pode ser bombeado para dentro e para fora dos drenos usando tubos de fluido de outros mods.",
+      "paragraph": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tool": "bolt",
+  "text": [
+    {
+      "text": "O Bolt é um projétil pesado que penetra armaduras. Uma vez carregado em uma besta, ele causa grandes danos e penetra metade da armadura do alvo."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "O dano causado depende da besta e das flechas. A página Criação de flechas explica como criar as peças."
+    }
+  ],
+  "properties": [
+    "Munição para bestas",
+    "50% de penetração de armadura",
+    "Pode ser recolhido novamente",
+    "Uma pilha contém muitas fotos"
+  ]
+}

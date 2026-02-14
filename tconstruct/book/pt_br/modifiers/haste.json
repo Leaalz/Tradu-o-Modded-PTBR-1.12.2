@@ -1,0 +1,24 @@
+{
+  "modifier": "haste",
+  "text": [
+    {
+      "text": "Adicionar redstone a uma ferramenta parece aumentar sua velocidade. O efeito da velocidade de mineração do redstone é mais potente em ferramentas mais lentas."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Redstone. É uma loucura, não é mesmo?"
+    }
+  ],
+  "effects": [
+    "Cada pó de redstone aumenta ligeiramente a velocidade de mineração.",
+    "Aumenta a velocidade de ataque",
+    "Vários níveis"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:shortbow"
+  ]
+}

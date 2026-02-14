@@ -1,0 +1,16 @@
+{
+  "modifier": "incognito",
+  "text": [
+    {
+      "text": "É mais realidade do que ilusão! Para o artesão experiente que busca vantagens engenhosas, mas com uma aparência organizada."
+    }
+  ],
+  "effects": [
+    "Oculta todos os modificadores visualmente",
+    "Faz bom uso de esponjas molhadas",
+    "Não requer modificador"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe"
+  ]
+}

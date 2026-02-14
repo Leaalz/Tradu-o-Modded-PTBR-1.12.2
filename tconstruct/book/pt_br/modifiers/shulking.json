@@ -1,0 +1,19 @@
+{
+  "modifier": "shulking",
+  "text": [
+    {
+      "text": "Capacite sua ferramenta com a habilidade de um Shulker. Acerte os inimigos para deixá-los indefesos no ar."
+    }
+  ],
+  "effects": [
+    "Cada ponto aumenta a duração da flutuação",
+    "Faz com que os inimigos flutuem para longe",
+    "Hilarious",
+    "Nível único"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:arrow"
+  ]
+}

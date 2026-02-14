@@ -1,0 +1,21 @@
+{
+  "tool": "frypan",
+  "text": [
+    {
+      "text": "A frigideira é uma arma pesada que usa seu peso para impedir os inimigos. Ela possui um knockback natural."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Manter o botão direito do mouse pressionado carrega um golpe poderoso, tão poderoso que causa dano bônus, empurra os inimigos para mais longe e cozinha quaisquer itens que eles deixarem cair."
+    }
+  ],
+  "properties": [
+    "Danos médios",
+    "Repulsão natural",
+    "Clique com o botão direito: Golpe Carregado",
+    "Golpe carregado cozinha gotas de alimentos",
+    "Sem improvisação"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "tool": "hammer",
+  "text": [
+    {
+      "text": "O Martelo é uma ferramenta de mineração ampla. Ele colhe blocos em uma ampla área e é eficaz contra mortos-vivos."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "É ideal para minerar grandes áreas e longas viagens de mineração."
+    }
+  ],
+  "properties": [
+    "Requer uma Tool Forge",
+    "Ferramenta avançada de mineração",
+    "Mineração 3x3 AOE",
+    "Eficaz em pedras e minérios",
+    "Dano bônus contra mortos-vivos"
+  ]
+}

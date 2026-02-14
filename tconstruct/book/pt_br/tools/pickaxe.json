@@ -1,0 +1,19 @@
+{
+  "tool": "pickaxe",
+  "text": [
+    {
+      "text": "A picareta é uma ferramenta de mineração precisa. É eficaz em pedras e minérios."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Ele quebra blocos, certo?"
+    }
+  ],
+  "properties": [
+    "Ferramenta básica de mineração",
+    "É uma picareta.",
+    "Blocos de pedra de minas e similares"
+  ]
+}

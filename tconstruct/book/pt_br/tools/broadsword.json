@@ -1,0 +1,19 @@
+{
+  "tool": "broadsword",
+  "text": [
+    {
+      "text": "A espada larga é uma arma versátil. Ela causa dano médio e permite repelir inimigos com um ataque de varredura, mantendo a outra mão livre."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Compatível com outras armas ou ferramentas secundárias."
+    }
+  ],
+  "properties": [
+    "Dano médio",
+    "Ataque de varredura",
+    "Pode ser usado com a mão livre"
+  ]
+}

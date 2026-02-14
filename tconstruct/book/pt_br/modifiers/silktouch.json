@@ -1,0 +1,23 @@
+{
+  "modifier": "silktouch",
+  "text": [
+    {
+      "text": "Adicionar uma grande quantidade de ouro e um monte de cordas parece conferir à ferramenta propriedades sedosas e suaves."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Não acredito que não é manteiga!"
+    }
+  ],
+  "effects": [
+    "Permite que os blocos sejam coletados diretamente",
+    "Não compatível com Luck ou Autosmelt",
+    "Uso único"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:hammer"
+  ]
+}

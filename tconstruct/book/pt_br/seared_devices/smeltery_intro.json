@@ -1,0 +1,11 @@
+{
+  "title": "The Smeltery",
+  "image": {
+    "file": "tconstruct:texturas/gui/livro/fundição.png"
+  },
+  "text": [
+    {
+      "text": "Existem muitas fundições. Mas esta é minha. E derrete as coisas muito bem."
+    }
+  ]
+}

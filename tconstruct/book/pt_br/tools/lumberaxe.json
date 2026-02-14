@@ -1,0 +1,21 @@
+{
+  "tool": "lumberaxe",
+  "text": [
+    {
+      "text": "O machado para madeira é uma ferramenta de corte larga. Ele pode derrubar árvores inteiras ou coletar madeira em uma ampla área."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Uma árvore só é detectada se tiver folhas no topo."
+    }
+  ],
+  "properties": [
+    "Requer uma Tool Forge",
+    "Ferramenta avançada de mineração",
+    "Derruba árvores inteiras de uma só vez",
+    "Mineração AOE 3x3x3",
+    "Eficaz em madeira"
+  ]
+}

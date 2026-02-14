@@ -1,0 +1,11 @@
+{
+  "title": "The Tinker Tank",
+  "image": {
+    "file": "tconstruct:texturas/gui/livro/tinker_tank.png"
+  },
+  "text": [
+    {
+      "text": "O Tinker Tank é um tanque gigante, com capacidade para muito mais líquido do que uma fundição, mas sem calor, o que impede a formação de ligas ou a fundição."
+    }
+  ]
+}

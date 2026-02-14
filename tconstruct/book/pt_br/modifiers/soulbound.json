@@ -1,0 +1,21 @@
+{
+  "modifier": "soulbound",
+  "text": [
+    {
+      "text": "Uma combinação perfeita. Você ama sua ferramenta. Nem mesmo a morte pode separá-lo dela."
+    }
+  ],
+  "effects": [
+    "A ferramenta permanece no seu inventário após a morte",
+    "Uso único",
+    "NÃO requer um modificador"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:pickaxe",
+    "tconstruct:hammer",
+    "tconstruct:shortbow",
+    "tconstruct:arrow"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tool": "hatchet",
+  "text": [
+    {
+      "text": "O machado é uma ferramenta básica para cortar. É eficaz em madeira e folhas. Quebrar folhas com ele não consome durabilidade."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Usar o machado em combate permite que você desative o escudo do seu oponente."
+    }
+  ],
+  "properties": [
+    "Ferramenta básica de mineração",
+    "Eficaz em madeira",
+    "Quebra as folhas muito rapidamente",
+    "Não utiliza durabilidade nas folhas"
+  ]
+}

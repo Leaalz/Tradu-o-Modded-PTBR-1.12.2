@@ -1,0 +1,18 @@
+{
+  "modifier": "sharpness",
+  "text": [
+    {
+      "text": "Você pode usar quartzo para afiar e aprimorar o fio das armas. Quanto mais quartzo for usado, melhor será o resultado da afiação da lâmina. Também funciona com itens sem corte."
+    }
+  ],
+  "effects": [
+    "Aumenta o dano de ataque",
+    "Armas diferentes têm escalas diferentes",
+    "Vários níveis"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:arrow"
+  ]
+}

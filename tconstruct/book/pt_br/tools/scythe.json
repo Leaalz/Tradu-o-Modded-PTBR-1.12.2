@@ -1,0 +1,21 @@
+{
+  "tool": "scythe",
+  "text": [
+    {
+      "text": "A foice é uma ferramenta de colheita ampla. É eficaz em plantas e ataca inimigos em um amplo raio de ação."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Clicar com o botão direito do mouse nas plantações ou nas colheitas de cana-de-açúcar replanta todas as plantas totalmente crescidas na área."
+    }
+  ],
+  "properties": [
+    "Requer uma Tool Forge",
+    "Ataque AOE",
+    "Colheita em área de efeito 3x3",
+    "Eficaz em culturas e plantas",
+    "Clique com o botão direito: Colheita AOE e replantio"
+  ]
+}

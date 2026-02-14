@@ -1,0 +1,17 @@
+{
+  "modifier": "glowing",
+  "text": [
+    {
+      "text": "Algumas pedras luminosas e um olho mágico de ender. Obviamente, isso detecta o nível de luz."
+    }
+  ],
+  "effects": [
+    "Coloca uma fonte de luz em nível de luz baixo",
+    "Custos durabilidade"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:hammer",
+    "tconstruct:broadsword"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "modifier": "mod_autosmelt",
+  "text": [
+    {
+      "text": "Derreter um cristal de lava na ponta de uma ferramenta confere-lhe o poder de um forno."
+    }
+  ],
+  "effects": [
+    "Derrete os blocos à medida que são colhidos",
+    "Não é compatível com Silk Touch ou com a versão de característica do Autosmelt.",
+    "Não funciona para armas",
+    "Uso único"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:shovel",
+    "tconstruct:hatchet",
+    "tconstruct:kama",
+    "tconstruct:mattock",
+    "tconstruct:hammer",
+    "tconstruct:lumberaxe",
+    "tconstruct:excavator",
+    "tconstruct:scythe"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tool": "longbow",
+  "text": [
+    {
+      "text": "O arco longo é a arma perfeita para matar à distância. Ele dispara lentamente, mas tem um grande impacto."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Perfeito para tirar proveito de uma vantagem posicional, basta acertar o tiro."
+    }
+  ],
+  "properties": [
+    "Requer uma Tool Forge",
+    "Usa Flechas de Tinker",
+    "Lento, mas com grande impacto",
+    "Pode usar flechas normais, mas elas são menos eficazes."
+  ]
+}

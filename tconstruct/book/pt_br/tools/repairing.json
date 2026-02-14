@@ -1,0 +1,22 @@
+{
+  "title": "Repairing",
+  "text": [
+    {
+      "text": "À medida que você usa suas ferramentas, elas sofrem danos. Quando toda a durabilidade se esgota, elas quebram. :("
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Para resolver isso, você precisa reparar sua ferramenta. Não é necessário esperar até que ela quebre, você pode repará-la a qualquer momento!"
+    },
+    {
+      "text": "Reparar é fácil. Coloque a ferramenta em uma estação de ferramentas ou forja e adicione itens equivalentes à cabeça da ferramenta. Se a cabeça da ferramenta for composta por várias peças, você pode usar cada um desses materiais. Reparar com vários materiais ao mesmo tempo concede um bônus de durabilidade reparada.",
+      "paragraph": true
+    },
+    {
+      "text": "Você também pode reparar suas ferramentas enquanto estiver nas profundezas da terra ou em aventuras longe de sua base.",
+      "paragraph": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tool": "shortbow",
+  "text": [
+    {
+      "text": "O arco curto é uma opção rápida e ágil para combate à distância. Ele dispara mais rápido do que seu irmão básico e também permite movimentos mais rápidos, mas isso tem o preço de um dano reduzido."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Se você quer transformar seus inimigos em uma almofada de alfinetes, então o arco curto é para você."
+    }
+  ],
+  "properties": [
+    "Rápido e móvel",
+    "Usa Flechas de Tinker",
+    "Pode ser usado com setas de baunilha",
+    "Pode usar flechas normais, mas elas são menos eficazes."
+  ]
+}

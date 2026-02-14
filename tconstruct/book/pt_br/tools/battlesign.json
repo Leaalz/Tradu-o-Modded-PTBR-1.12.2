@@ -1,0 +1,20 @@
+{
+  "tool": "battlesign",
+  "text": [
+    {
+      "text": "A Battlesign é um avanço na tecnologia de armas digno dos Zombie Pigmen em todo o mundo. É uma arma defensiva que também funciona como escudo."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "O bloqueio proporciona maior redução de danos, refletindo uma pequena parte dos danos e refletindo quaisquer projéteis."
+    }
+  ],
+  "properties": [
+    "Arma defensiva",
+    "Baixo dano",
+    "Pode ser usado como escudo",
+    "Bloqueio reflete projéteis"
+  ]
+}

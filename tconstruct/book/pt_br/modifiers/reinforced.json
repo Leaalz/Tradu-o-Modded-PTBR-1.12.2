@@ -1,0 +1,19 @@
+{
+  "modifier": "reinforced",
+  "text": [
+    {
+      "text": "Adicionar uma placa reforçada à ferramenta parece ajudar na sua durabilidade, tornando-a mais resistente."
+    }
+  ],
+  "effects": [
+    "Adiciona uma chance de não consumir durabilidade",
+    "Pilhas com níveis anteriores de reforçado",
+    "Vários níveis"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:hammer",
+    "tconstruct:shortbow",
+    "tconstruct:arrow"
+  ]
+}

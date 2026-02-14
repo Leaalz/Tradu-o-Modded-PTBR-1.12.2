@@ -1,0 +1,21 @@
+{
+  "modifier": "mending_moss",
+  "text": [
+    {
+      "text": "Um pouco de musgo cresceu nas bordas desgastadas da sua ferramenta. Encantá-la com um pouco de XP faz com que ela se funda com a ferramenta, restaurando-a gradualmente."
+    }
+  ],
+  "effects": [
+    "Lojas XP selecionadas",
+    "A quantidade máxima armazenada aumenta com o nível do modificador.",
+    "Repara lentamente a ferramenta ao longo do tempo",
+    "Tem que estar na barra de acesso rápido ou na mão secundária para reparar",
+    "Vários níveis"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:shortbow",
+    "tconstruct:arrow"
+  ]
+}

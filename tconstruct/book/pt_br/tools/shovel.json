@@ -1,0 +1,19 @@
+{
+  "tool": "shovel",
+  "text": [
+    {
+      "text": "A pá é uma ferramenta de escavação precisa. É eficaz em terra, areia, cascalho e neve."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Clicar com o botão direito do mouse na grama ou no solo criará caminhos."
+    }
+  ],
+  "properties": [
+    "Ferramenta básica de mineração",
+    "Eficaz em terra, areia e cascalho",
+    "Pode criar caminho"
+  ]
+}

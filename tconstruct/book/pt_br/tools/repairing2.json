@@ -1,0 +1,10 @@
+{
+  "image": {
+    "file": "tconstruct:texturas/gui/livro/reparação_do_inventário.png"
+  },
+  "text": [
+    {
+      "text": "Para isso, basta pegar um kit de afiação do material necessário e colocá-lo em uma grade de criação junto com a ferramenta."
+    }
+  ]
+}

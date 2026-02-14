@@ -1,0 +1,12 @@
+{
+  "title": "",
+  "text": [
+    {
+      "text": "A Fornalha Queimada pode ter qualquer tamanho entre 3x3 e 11x11, e qualquer altura a partir de um mínimo de 3. Estruturas maiores aumentam a quantidade de itens que podem ser fundidos de uma só vez. Para ser uma estrutura válida, ela precisa ter piso e teto, além de uma moldura nas laterais (as molduras ao redor do teto e do piso são opcionais)."
+    },
+    {
+      "text": "A estrutura pode ser feita usando blocos queimados de qualquer tipo com um único controlador. Deve haver pelo menos um tanque de combustível, colocado em uma extremidade externa da estrutura (veja a imagem). O teto pode ser substituído por lajes ou escadas, mas, fora isso, suporta os mesmos blocos que o resto da estrutura.",
+      "paragraph": true
+    }
+  ]
+}

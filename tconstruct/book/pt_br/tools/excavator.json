@@ -1,0 +1,21 @@
+{
+  "tool": "excavator",
+  "text": [
+    {
+      "text": "A escavadora é uma ferramenta de escavação ampla. Ela recolhe solo e neve em uma ampla área."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Para quando você precisar cavar muitas sepulturas."
+    }
+  ],
+  "properties": [
+    "Requer uma Tool Forge",
+    "Ferramenta avançada de mineração",
+    "Mineração 3x3 AOE",
+    "Eficaz em terra, areia e cascalho",
+    "Pode criar caminho"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "modifier": "extramodifier",
+  "text": [
+    {
+      "text": "Você é um aventureiro experiente, derrotou o End e conseguiu sua elytra. Que tal um espaço extra para modificadores para mostrar o quão longe você chegou no seu mundo?"
+    }
+  ],
+  "effects": [
+    "Adiciona um modificador extra",
+    "Faz bom uso das cabeças do Dragão Ender",
+    "Não requer modificador (óbvio!)"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe"
+  ]
+}

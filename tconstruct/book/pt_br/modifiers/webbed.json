@@ -1,0 +1,18 @@
+{
+  "modifier": "webbed",
+  "text": [
+    {
+      "text": "Todas essas teias de aranha pegajosas têm que servir para alguma coisa. Use-as para retardar seus inimigos!"
+    }
+  ],
+  "effects": [
+    "Cada nível aumenta a duração da lentidão",
+    "Slow-motion",
+    "Multinível"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:arrow"
+  ]
+}

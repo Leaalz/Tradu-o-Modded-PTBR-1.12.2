@@ -1,0 +1,17 @@
+{
+  "modifier": "fortify",
+  "text": [
+    {
+      "text": "Mais forte, melhor, mais rápido, mais resistente! Aplica o mesmo nível de mineração do material usado à ferramenta."
+    }
+  ],
+  "effects": [
+    "Aumenta o nível de mineração",
+    "O nível de mineração depende do material utilizado.",
+    "Também é possível rebaixar o nível",
+    "Não requer modificador"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe"
+  ]
+}

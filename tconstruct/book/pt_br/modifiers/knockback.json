@@ -1,0 +1,17 @@
+{
+  "modifier": "knockback",
+  "text": [
+    {
+      "text": "Fixar um pistão à ferramenta e ativá-lo no momento certo parece lançar os monstros para mais longe."
+    }
+  ],
+  "effects": [
+    "Adiciona um empurrão extra",
+    "Cada pistão aumenta a distância de recuo",
+    "Vários níveis"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:arrow"
+  ]
+}

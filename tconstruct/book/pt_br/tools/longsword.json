@@ -1,0 +1,19 @@
+{
+  "tool": "longsword",
+  "text": [
+    {
+      "text": "A espada longa é uma arma ofensiva. É frequentemente usada para atacar em batalha a toda velocidade. É mais lenta que a espada larga, mas causa mais dano."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Manter o botão direito do mouse pressionado carrega uma investida, que permite realizar um pequeno salto."
+    }
+  ],
+  "properties": [
+    "Dano acima da média, mas mais lento",
+    "Clique com o botão direito: Estocada",
+    "Sem improvisação"
+  ]
+}

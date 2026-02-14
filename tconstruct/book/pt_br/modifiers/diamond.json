@@ -1,0 +1,21 @@
+{
+  "modifier": "diamond",
+  "text": [
+    {
+      "text": "Adicionar um diamante à borda de uma ferramenta torna-a mais resistente e aumenta a capacidade de mineração da ferramenta. Além disso, é um acessório de moda muito elegante."
+    }
+  ],
+  "effects": [
+    "Durabilidade extra",
+    "Aumento menor nas estatísticas",
+    "Nível de mineração aumentou em um, até Obsidiana",
+    "Uso único",
+    "Fantástico!"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:shortbow",
+    "tconstruct:arrow"
+  ]
+}

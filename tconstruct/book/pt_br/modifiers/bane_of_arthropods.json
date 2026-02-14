@@ -1,0 +1,17 @@
+{
+  "modifier": "bane_of_arthopods",
+  "text": [
+    {
+      "text": "Atacar uma aranha com seu próprio olho faz com que ela recue de medo. Tem um problema com pragas? Aqui está a solução. Mata insetos."
+    }
+  ],
+  "effects": [
+    "Causa danos significativos a aranhas e traças",
+    "Vários níveis"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:hammer",
+    "tconstruct:arrow"
+  ]
+}

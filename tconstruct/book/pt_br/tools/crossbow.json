@@ -1,0 +1,20 @@
+{
+  "tool": "crossbow",
+  "text": [
+    {
+      "text": "A besta é uma arma de longo alcance poderosa que precisa ser carregada previamente. Suas flechas causam muito dano e perfuram parte da armadura dos inimigos. As bestas ganham benefícios extras com o dano bônus."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "O carregamento é relativamente lento, mas muitas vezes basta apenas uma tentativa. Você só precisa acertar o alvo."
+    }
+  ],
+  "properties": [
+    "Requer uma Tool Forge",
+    "Usa parafusos de Tinkers",
+    "Perfurante parcialmente",
+    "Precisa ser carregado antes de disparar"
+  ]
+}

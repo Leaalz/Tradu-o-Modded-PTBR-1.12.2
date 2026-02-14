@@ -1,0 +1,11 @@
+{
+  "title": "The Seared Furnace",
+  "image": {
+    "file": "tconstruct:texturas/gui/livro/forno_queimado.png"
+  },
+  "text": [
+    {
+      "text": "O Forno Aquecido é o mestre de todos os fornos, cozinhando pilhas de um quarto de vez e cozinhando alimentos com maior rapidez."
+    }
+  ]
+}

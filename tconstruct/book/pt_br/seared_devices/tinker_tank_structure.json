@@ -1,0 +1,12 @@
+{
+  "title": "",
+  "text": [
+    {
+      "text": "O Tinker Tank pode ter qualquer tamanho entre 3x3 e 11x11, e qualquer altura a partir de um mínimo de 3. Estruturas maiores aumentam o tamanho do tanque. Para ser uma estrutura válida, é necessário um piso e um teto, além de uma moldura ao redor de toda a estrutura."
+    },
+    {
+      "text": "O Tinker Tank pode ser construído usando qualquer combinação de blocos queimados, vidro e drenos. A estrutura do piso e do teto deve ser composta por blocos queimados ou drenos. É necessário um único controlador Tinker Tank, que pode ser colocado em qualquer camada, exceto no teto, e não deve ser colocado nas bordas externas da estrutura. O teto também suporta lajes e escadas, mesmo na estrutura, desde que estejam voltadas para baixo.",
+      "paragraph": true
+    }
+  ]
+}

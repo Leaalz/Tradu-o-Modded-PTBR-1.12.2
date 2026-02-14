@@ -1,0 +1,17 @@
+{
+  "modifier": "extratrait",
+  "text": [
+    {
+      "text": "Pegue uma peça da ferramenta e grave-a na ferramenta! É como substituir a peça da ferramenta, mas melhor! A ferramenta ganha as características da peça, além das já presentes (mas não as estatísticas)."
+    }
+  ],
+  "effects": [
+    "Adiciona características de outra parte",
+    "As características são equivalentes à troca da parte",
+    "A gravação é definitiva e não pode ser alterada.",
+    "Não requer modificador"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "tool": "rapier",
+  "text": [
+    {
+      "text": "A Rapier é uma arma especial que depende de golpes rápidos para derrotar inimigos (blindados). Cada golpe com a rapier ignora parcialmente a armadura do alvo."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Clicar com o botão direito do mouse faz com que você dê um pequeno passo para trás, permitindo que você se esquive rapidamente de danos iminentes."
+    }
+  ],
+  "properties": [
+    "Rápido, mas com baixo dano",
+    "50% de perfuração de armadura",
+    "Ignora quadros de invencibilidade",
+    "Clique com o botão direito: Retroceder",
+    "Sem improvisação"
+  ]
+}

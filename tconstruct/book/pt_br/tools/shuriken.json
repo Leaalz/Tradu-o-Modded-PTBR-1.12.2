@@ -1,0 +1,15 @@
+{
+  "tool": "shuriken",
+  "text": [
+    {
+      "text": "Shurikens são armas de arremesso de curto alcance, lançadas instantaneamente. Elas também podem ser usadas com a mão secundária e permitem muito controle devido à sua velocidade."
+    }
+  ],
+  "properties": [
+    "Requer uma Tool Forge",
+    "Arma de longo alcance rápida",
+    "Deadly",
+    "Ninja",
+    "Pode ser lançado com a mão secundária"
+  ]
+}

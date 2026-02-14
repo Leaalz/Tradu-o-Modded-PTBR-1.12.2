@@ -1,0 +1,25 @@
+{
+  "modifier": "luck",
+  "text": [
+    {
+      "text": "Incrustar lápis-lazúli nas ferramentas é uma oferenda aos deuses da sorte. Eles abençoarão sua ferramenta com grande fortuna e saques."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Tem que estar no projétil para armas de longo alcance."
+    }
+  ],
+  "effects": [
+    "Adiciona fortuna ou pilhagem",
+    "O uso de ferramentas pode aumentar a sorte",
+    "Adicionar mais lapis usa apenas um modificador",
+    "Não compatível com Silky"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:arrow"
+  ]
+}

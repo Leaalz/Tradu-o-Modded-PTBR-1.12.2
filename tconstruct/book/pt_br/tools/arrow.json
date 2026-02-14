@@ -1,0 +1,19 @@
+{
+  "tool": "arrow",
+  "text": [
+    {
+      "text": "As flechas são projéteis mortais, disparados a partir de um arco. As flechas artesanais contêm vários tiros e podem ser recolhidas."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "O dano causado depende tanto do arco quanto das flechas. Elas oferecem uma ampla variedade de comportamentos com diferentes materiais."
+    }
+  ],
+  "properties": [
+    "Munição para Arcos",
+    "Pode ser recolhido novamente",
+    "Uma pilha contém muitas fotos"
+  ]
+}

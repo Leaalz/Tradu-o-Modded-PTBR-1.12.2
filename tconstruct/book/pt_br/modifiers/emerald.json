@@ -1,0 +1,19 @@
+{
+  "modifier": "emerald",
+  "text": [
+    {
+      "text": "Fixar uma esmeralda no ponto mais fraco de uma ferramenta torna-a especialmente resistente e fabulosa. Os aldeões também podem cobiçar sua ferramenta, tenha cuidado."
+    }
+  ],
+  "effects": [
+    "Aumento de 50% na durabilidade base",
+    "Nível de mineração aumentado para Ferro",
+    "Uso único",
+    "Que absurdo!"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:hammer",
+    "tconstruct:cleaver"
+  ]
+}

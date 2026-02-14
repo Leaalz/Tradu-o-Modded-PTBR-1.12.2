@@ -1,0 +1,13 @@
+{
+  "title": "Bolt Crafting",
+  "text": [
+    {
+      "text": "Para fabricar flechas, você precisa de um núcleo de flecha. Os núcleos de flecha são criados colocando-se uma haste de flecha em uma mesa de fundição e derramando o material da ponta sobre ela."
+    }
+  ],
+  "image": {
+    "file": "tconstruct:texturas/gui/livro/bolt_core.png",
+    "width": 150,
+    "height": 75
+  }
+}

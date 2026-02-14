@@ -1,0 +1,18 @@
+{
+  "modifier": "beheading",
+  "text": [
+    {
+      "text": "Usar uma pérola ender e um pouco de obsidiana em uma arma tem o curioso efeito de separar a cabeça do alvo do corpo. Só um pouquinho da parte de cima?"
+    }
+  ],
+  "effects": [
+    "Os inimigos abaixam a cabeça",
+    "Adicionar mais obsidiana e pérolas Ender aumenta a chance de decapitação.",
+    "Vários níveis"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:arrow"
+  ]
+}

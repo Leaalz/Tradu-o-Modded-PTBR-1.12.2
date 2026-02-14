@@ -1,0 +1,19 @@
+{
+  "tool": "mattock",
+  "text": [
+    {
+      "text": "A enxada é uma ferramenta multifuncional precisa. É eficaz em madeira, solo e plantas."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Ele pode criar caminhos como pás e causar danos consideráveis em combate."
+    }
+  ],
+  "properties": [
+    "Uma pá e um machado combinados",
+    "Cria caminhos de terra",
+    "Eficaz em madeira, solo e plantas"
+  ]
+}

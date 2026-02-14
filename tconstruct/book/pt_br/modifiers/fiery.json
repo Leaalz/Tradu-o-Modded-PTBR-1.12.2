@@ -1,0 +1,17 @@
+{
+  "modifier": "fiery",
+  "text": [
+    {
+      "text": "Adicionar pó de fogo a uma ferramenta confere-lhe um tom ardente. As bordas da arma parecem brasas. Infelizmente, não é suficientemente brilhante para servir de fonte de luz."
+    }
+  ],
+  "effects": [
+    "Incendeia os inimigos",
+    "Causa dano adicional de fogo ao acertar",
+    "Vários níveis"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:arrow"
+  ]
+}
