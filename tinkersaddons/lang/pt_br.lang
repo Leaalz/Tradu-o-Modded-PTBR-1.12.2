@@ -1,0 +1,16 @@
+tinkersaddons.amelioration_tome.name=Amelioration Tome
+tinkersaddons.amelioration_tome.description=§2Auto-Repair Editar§r
+tinkersaddons.iron_toolkit.name=Iron Toolkit
+tinkersaddons.iron_toolkit.description=§3Conceder uma Modificação Extra§r
+tinkersaddons.gold_toolkit.name=Gold Toolkit
+tinkersaddons.gold_toolkit.description=§3Conceder uma Modificação Extra§r
+tinkersaddons.diamond_toolkit.name=Diamond Toolkit
+tinkersaddons.diamond_toolkit.description=§3Conceder uma Modificação Extra§r
+tinkersaddons.ender_toolkit.name=Ender Toolkit
+tinkersaddons.ender_toolkit.description=§3Conceder uma Modificação Extra§r
+modifier.auto-repair.name=Amelioration
+modifier.bonus-modifier_1.name=Bonus Modifier Toolkit
+modifier.bonus-modifier_2.name=Bonus Modifier Toolkit
+modifier.bonus-modifier_3.name=Bonus Modifier Toolkit
+modifier.bonus-modifier_4.name=Bonus Modifier Toolkit
+modifier.auto-repair.desc=§oReparação automotiva como nos velhos tempos §r\nVocê não percebeu que sentia falta disso, não é mesmo?

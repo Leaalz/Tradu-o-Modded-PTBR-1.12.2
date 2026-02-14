@@ -1,0 +1,11 @@
+{
+  "title": "Melters",
+  "image": {
+    "file": "tcomplemento:texturas/gui/livro/melter.png"
+  },
+  "text": [
+    {
+      "text": "O derretedor é uma versão menor da fundição, capaz de derreter apenas um líquido por vez e incapaz de produzir ligas."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "",
+  "text": [
+    {
+      "text": "O Forno Alto deve ter exatamente 3x3 e pode ter qualquer altura a partir de um mínimo de 3. Estruturas mais altas aumentam o número de itens que podem ser fundidos, a capacidade de líquido e a temperatura interna máxima. Requer um piso e um teto, juntamente com uma estrutura ao redor da construção."
+    },
+    {
+      "text": "O Forno Alto pode ser construído usando qualquer combinação de blocos queimados, calhas, dutos e drenos. Torneiras podem ser conectadas aos drenos para despejar fluidos em mesas de fundição e bacias, ou o fluido pode ser bombeado para dentro e para fora dos drenos usando tubos de fluido de outros mods. Funis ou outros tubos de itens podem ser conectados às calhas para inserir itens para derreter, ou aos dutos para adicionar oxidantes, redutores, purificadores e combustível ao forno alto.",
+      "paragraph": true
+    }
+  ]
+}

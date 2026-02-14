@@ -1,0 +1,11 @@
+{
+  "title": "The High Oven",
+  "image": {
+    "file": "tcomplemento:texturas/gui/livro/forno_alto.png"
+  },
+  "text": [
+    {
+      "text": "O forno alto funde matérias-primas em líquidos e apoia a ciência da magia negra para produzir aço. Ele só funciona com combustíveis puros, como carvão vegetal."
+    }
+  ]
+}

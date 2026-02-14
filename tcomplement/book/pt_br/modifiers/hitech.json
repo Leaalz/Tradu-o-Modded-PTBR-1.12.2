@@ -1,0 +1,16 @@
+{
+  "modifier": "hitech",
+  "text": [
+    {
+      "text": "A mais recente tecnologia futurística em cinzéis da iChisel"
+    }
+  ],
+  "effects": [
+    "Aplicar aos cinzéis",
+    "Interface do usuário futurista",
+    "Pode ser combinado com Largura++ e Altura++ para mais modos de cinzelamento"
+  ],
+  "demoTool": [
+    "tcomplement:chisel"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Alloy Tank",
+  "image": {
+    "file": "tcomplemento:texturas/gui/livro/tanque_de_liga.png"
+  },
+  "text": [
+    {
+      "text": "O tanque de liga extrai líquidos de tanques e fundidores adjacentes para produzir ligas."
+    }
+  ]
+}

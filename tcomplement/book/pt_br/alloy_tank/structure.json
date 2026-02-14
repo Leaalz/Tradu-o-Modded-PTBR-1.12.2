@@ -1,0 +1,12 @@
+{
+  "title": "",
+  "text": [
+    {
+      "text": "O tanque de liga deve ser colocado acima de um aquecedor ou tanque para que o combustível funcione. Tanques e derretedores podem ser colocados na parte superior ou em qualquer lado como entradas para a liga, e torneiras conectadas ao tanque para saídas."
+    },
+    {
+      "text": "Para realizar a liga, o aquecedor deve conter combustível. Além disso, alimentar o tanque de liga com redstone fará com que ele pare de realizar a liga.",
+      "paragraph": true
+    }
+  ]
+}
